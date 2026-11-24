@@ -4,11 +4,14 @@ google.com, pub-7889808665030485, DIRECT, f08c47fec0942fa0
 #META
 facebook.com, 1365366494897337, DIRECT, c3e20eee3f780d68
 
+#Mintegral
+mintegral.com, 62113, DIRECT, 0aeed750c80d6423
+
 #APPLOVIN
 applovin.com, 18c27b1531d0d175295aea5f66f62e2b, DIRECT
-adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
-contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
+bigo.sg, qyfoptvec9, RESELLER
+contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 improvedigital.com, 2602, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
@@ -35,8 +38,10 @@ sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER
 taurusx.com, 70119, RESELLER
+themediagrid.com, HW1PGR, RESELLER, 9fac4a4a87c2a44f
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
@@ -45,6 +50,11 @@ zmaticoo.com, 5135655, RESELLER
 #IRONSOURCE
 
 #UNITY
+start.io, 131192070, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+monetrix.ai, 10761, RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
 xandr.com, 8916, RESELLER
